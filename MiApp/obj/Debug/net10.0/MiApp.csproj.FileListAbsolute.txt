@@ -1,0 +1,15 @@
+/workspaces/oesiatesting2026/MiApp/bin/Debug/net10.0/MiApp
+/workspaces/oesiatesting2026/MiApp/bin/Debug/net10.0/MiApp.deps.json
+/workspaces/oesiatesting2026/MiApp/bin/Debug/net10.0/MiApp.runtimeconfig.json
+/workspaces/oesiatesting2026/MiApp/bin/Debug/net10.0/MiApp.dll
+/workspaces/oesiatesting2026/MiApp/bin/Debug/net10.0/MiApp.pdb
+/workspaces/oesiatesting2026/MiApp/obj/Debug/net10.0/MiApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/oesiatesting2026/MiApp/obj/Debug/net10.0/MiApp.AssemblyInfoInputs.cache
+/workspaces/oesiatesting2026/MiApp/obj/Debug/net10.0/MiApp.AssemblyInfo.cs
+/workspaces/oesiatesting2026/MiApp/obj/Debug/net10.0/MiApp.csproj.CoreCompileInputs.cache
+/workspaces/oesiatesting2026/MiApp/obj/Debug/net10.0/MiApp.sourcelink.json
+/workspaces/oesiatesting2026/MiApp/obj/Debug/net10.0/MiApp.dll
+/workspaces/oesiatesting2026/MiApp/obj/Debug/net10.0/refint/MiApp.dll
+/workspaces/oesiatesting2026/MiApp/obj/Debug/net10.0/MiApp.pdb
+/workspaces/oesiatesting2026/MiApp/obj/Debug/net10.0/MiApp.genruntimeconfig.cache
+/workspaces/oesiatesting2026/MiApp/obj/Debug/net10.0/ref/MiApp.dll
